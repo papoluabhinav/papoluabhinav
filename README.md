@@ -4,7 +4,7 @@ About Me
 Aspiring Finalcial Analyst ,Economics graduate with interest in data analytics, business intelligence and Financial Operations, supporting business decision making using data,Developing analytical skills through practical projects.
 
 # Skills
-1.Microsoft Excel : 
+1.Microsoft Excel :  
 Data Cleaning, Functions and Queries, Analysis
 
 2.Power BI : 
