@@ -6,10 +6,13 @@ Aspiring Finalcial Analyst ,Economics graduate with interest in data analytics, 
 # Skills
 1.Microsoft Excel
 Data Cleaning, Functions and Queries, Analysis
+
 2.Power BI
 Modelling Data, Power Query, DAX, Reports
+
 3.Python
 Basic Data Manipulation & Integration
+
 4.SQL
 Developing SQL querying skills
 
