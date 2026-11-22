@@ -32,13 +32,10 @@ This project was a full analytical project which included:
 
 # Goals
 
-Improving SQL skills.
-
-Creating standalone data analytics projects.
-
-Improving business analysis and data analysis skills.
-
-Developing a better understanding of business operations
+Improving SQL skills.  
+Creating standalone data analytics projects.  
+Improving business analysis and data analysis skills.  
+Developing a better understanding of business operations  
 
 # Contact
 
