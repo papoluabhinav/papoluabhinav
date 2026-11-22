@@ -4,16 +4,16 @@ About Me
 Aspiring Finalcial Analyst ,Economics graduate with interest in data analytics, business intelligence and Financial Operations, supporting business decision making using data,Developing analytical skills through practical projects.
 
 # Skills
-1.Microsoft Excel:
+1.Microsoft Excel : 
 Data Cleaning, Functions and Queries, Analysis
 
-2.Power BI:
+2.Power BI : 
 Modelling Data, Power Query, DAX, Reports
 
-3.Python:
+3.Python : 
 Basic Data Manipulation & Integration
 
-4.SQL:
+4.SQL : 
 Developing SQL querying skills
 
 # Projects
@@ -22,12 +22,19 @@ Tailwind Traders – Sales and Profitability Analysis
 This project was a full analytical project which included:
 
 .Cleaning and Calculations in Excel
+
 .Data Transformation and profiling using Power Query
+
 .Integration of foreign exchange data using Python
+
 .DAX functions and time intelligence
+
 .Reports created in Power BI including an Executive Dashboard.
+
 .Project files and documentation will be added soon.
+
 .Power BI Service features, including dashboard publishing and email subscriptions
+
 .Interactive Power BI reports and an Executive Dashboard, easily Understandable and mobile friendly
 
 # Goals
